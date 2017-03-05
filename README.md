@@ -26,8 +26,7 @@ The goals / steps of this project are the following:
 [image5]: ./output_images/polyfit_img.jpg "Polynomial Fit In Progress"
 [image6]: ./output_images/polyfit.jpg "Polynomial Fit Final"
 [image7]: ./output_images/result.jpg "Final Image"
-[video1]: ./processed_out.mp4 "Video"
-[]: 
+[video1]: ./processed_out.mp4 "Video" 
 
 ###Camera Calibration
 
